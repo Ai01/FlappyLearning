@@ -1,0 +1,22 @@
+{
+  "name": "flappylearning",
+  "version": "1.0.0",
+  "description": "Program that learns to play Flappy Bird by machine learning ([Neuroevolution](http://www.scholarpedia.org/article/Neuroevolution))",
+  "main": "Neuroevolution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ai01/FlappyLearning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ai01/FlappyLearning/issues"
+  },
+  "homepage": "https://github.com/Ai01/FlappyLearning#readme",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.3"
+  }
+}
