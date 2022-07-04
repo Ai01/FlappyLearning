@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Ai01/FlappyLearning#readme",
   "dependencies": {
-    "brain.js": "^2.0.0-beta.3"
+    "brain.js": "^2.0.0-beta.3",
+    "ramda": "^0.27.1"
   }
 }
